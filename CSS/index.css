@@ -74,7 +74,7 @@
     
  }
 
- .header-nav__menu-link_hover::before,
+ .header-nav__menu-link:hover::before,
  .header-nav__menu-link--active::before {
     width: 100%;
  }
